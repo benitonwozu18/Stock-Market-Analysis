@@ -27,7 +27,6 @@ A financial data analysis project comparing the historical stock performance of 
 ## Project Files
 
 * Stock_Market_Analysis.ipynb: Python analysis, calculations, and visualizations.
-* stock_performance_summary.csv: Summary of returns and volatility.
 
 ## Key Findings
 
